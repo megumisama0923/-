@@ -75,8 +75,21 @@ LOL|1|3
      return 0;
   }
 ```
-  
+```bash
+   sudo su
+   echo "输出字符串"
+```
 
+```cpp
+   #include <iostream>
+   using namespace std;
+
+   int main
+   {
+      printf("megumi0923\n");
+      return 0;
+   }
+```
 
 
 
