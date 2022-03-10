@@ -62,3 +62,53 @@
 Csgo|198|1
 Pubg|098|2
 LOL|1|3
+
+## 插入代码片段
+
+```c
+  #include <stdio.h>
+
+  int main()
+  {
+     printf("hello world\n");
+     
+     return 0;
+  }
+```
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
